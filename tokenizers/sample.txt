@@ -1,0 +1,8 @@
+strings --> immutable sequences of "unicode" code points.
+unicode --> a text encoding standard
+
+
+Unicode text is processed and stored as binary data using one of several encodings.
+The unicode standard itself defines 3 encodings : UTF-8, UTF-16,UTF-32
+utf-8 is the most widely used by margin.
+
